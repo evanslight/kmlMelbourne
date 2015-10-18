@@ -1,0 +1,21 @@
+'#ff7f50', ju se
+'#87cefa', dan lan
+'#da70d6', purple
+'#32cd32'  green
+'#6495ed' blue
+'#ff69b4' pink
+'#ff69b4' 
+'#ba55d3' deep purple
+'#cd5c5c' brown
+'#ffa500'  yellow
+'#40e0d0' bright green
+'#1e90ff' real blue
+'#ff6347' orange
+'#7b68ee' zi se 
+'#00fa9a' much bright green
+'#ffd700' gentle yellow
+'#6b8e23' deep green
+'#ff00ff' bad pink
+'#3cb371' peace green
+'#b8860b'
+'#30e0e0'  bright green
